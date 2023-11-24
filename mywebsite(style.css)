@@ -250,7 +250,7 @@
     z-index: 1;
   }
   
-  .newsletter-img { display: none; }
+  .Login-img { display: none; }
   
   .modal-content {
     position: relative;
@@ -285,21 +285,21 @@
   
   .modal-close-btn ion-icon { --ionicon-stroke-width: 70px; }
   
-  .newsletter {
+  .Login {
     padding: 50px 30px;
     text-align: center;
   }
   
-  .newsletter-header { margin-bottom: 20px; }
+  .Login-header { margin-bottom: 20px; }
   
-  .newsletter-title {
+  .Login-title {
     color: var(--onyx);
     font-size: var(--fs-2);
     font-weight: var(--weight-600);
     margin-bottom: 10px;
   }
   
-  .newsletter-desc {
+  .Login-desc {
     color: var(--sonic-silver);
     font-size: var(--fs-7);
     line-height: 1.6;
@@ -313,7 +313,7 @@
     margin-bottom: 16px;
   }
   
-  .btn-newsletter {
+  .btn-Login {
     background: var(--eerie-black);
     color: var(--white);
     font-size: var(--fs-7);
@@ -325,7 +325,7 @@
     transition: var(--transition-timing);
   }
   
-  .btn-newsletter:hover { background: var(--salmon-pink); }
+  .btn-Login:hover { background: var(--salmon-pink); }
   
   
   
